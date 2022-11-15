@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">NameGenerator</string>
+
+    <string name="lbl_male">Male</string>
+    <string name="lbl_female">Female</string>
+</resources>
